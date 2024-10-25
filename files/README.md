@@ -1,4 +1,4 @@
-# All the standard commands work, install all depenndencies with npm i, then run
+# All the standard commands work, install all dependencies with npm i, then run
 
 The file structure is same for all users, please try to follow the conventions to the best of your abilities
 ESlint, GitHub Hooks and Huky for ESlint are both set-up.
