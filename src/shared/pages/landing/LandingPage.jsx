@@ -4,7 +4,7 @@ import NavigateButton from '../../components/NavigateButtons';
 
 const LandingPage = () => {
   return (
-    <div>
+    <div className={styles.buttons}>
       <NavigateButton route="/user/login" title="go to User Login" />
       <NavigateButton route="/Student/login" title="go to Student Login" />
       <NavigateButton route="/Panel/login" title="go to Panel Login" />
